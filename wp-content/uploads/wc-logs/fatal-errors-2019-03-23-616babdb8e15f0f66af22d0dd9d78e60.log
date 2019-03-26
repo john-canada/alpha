@@ -1,0 +1,21 @@
+2019-03-23T05:42:32+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\alpha\wp-content\plugins\ninja-forms\ninja-forms.php:1137
+Stack trace:
+#0 C:\xampp\htdocs\alpha\wp-includes\class-wp-hook.php(286): nf_update_marketing_feed()
+#1 C:\xampp\htdocs\alpha\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\alpha\wp-includes\plugin.php(515): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\alpha\wp-cron.php(126): do_action_ref_array('nf_marketing_fe...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\alpha\wp-content\plugins\ninja-forms\ninja-forms.php on line 1137
+
+2019-03-23T05:48:52+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\wise-chat\src\dao\user\WiseChatUserSessionDAO.php on line 97
+
+2019-03-23T06:51:52+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\functions.php:90
+Stack trace:
+#0 C:\xampp\htdocs\alpha\wp-settings.php(424): include()
+#1 C:\xampp\htdocs\alpha\wp-config.php(92): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\alpha\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\alpha\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\alpha\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\functions.php on line 90
+

@@ -1,0 +1,931 @@
+0000.001 (0) Opened log file at time: Wed, 20 Feb 2019 10:22:05 +0000 on http://localhost/alpha
+0000.020 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.0 WP: 4.9.9 PHP: 7.2.12 (apache2handler, Windows NT DESKTOP-7TDVB2V 10.0 build 17134 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 73.1M | 6M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.021 (0) Free space on disk containing Updraft's temporary directory: 441930 MB
+0000.025 (0) Deleting old temporary file: log.4f4144dad437-browser.txt
+0000.028 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.073 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.074 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2019-02-20 10:22:05
+0000.077 (0) Semaphore (fd, wp_options) reset to 1
+0000.077 (0) Set semaphore last lock (fd) time to 2019-02-20 10:22:05
+0000.078 (0) Semaphore lock (fd) complete
+0000.080 (0) Backup run: resumption=0, nonce=87d2e39436da, file_nonce=87d2e39436da begun at=1550658125 (0s ago), job type=backup
+0000.081 (0) Scheduling a resumption (1) after 300 seconds (1550658425) in case this run gets aborted
+0000.182 (0) Checking if we have a zip executable available
+0000.183 (0) Creation of backups of directories: beginning
+0000.187 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0028.217 (0) Total entities for the zip file: 2724 directories, 14915 files (0 skipped as non-modified), 201.2 MB
+0028.232 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0029.542 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 100 files added (on-disk size: 494.7 KB)
+0030.274 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 200 files added (on-disk size: 494.7 KB)
+0030.754 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.3 MB, 266 (267) files added so far); re-opening (prior size: 494.7 KB)
+0032.924 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 300 files added (on-disk size: 3580.1 KB)
+0033.747 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 400 files added (on-disk size: 3580.1 KB)
+0034.080 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 500 files added (on-disk size: 3580.1 KB)
+0034.348 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 600 files added (on-disk size: 3580.1 KB)
+0034.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.5 MB, 396 (663) files added so far); re-opening (prior size: 3580.1 KB)
+0037.609 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 700 files added (on-disk size: 6189.9 KB)
+0038.653 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 800 files added (on-disk size: 6189.9 KB)
+0038.925 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 900 files added (on-disk size: 6189.9 KB)
+0039.533 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 1000 files added (on-disk size: 6189.9 KB)
+0039.767 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.5 MB, 389 (1052) files added so far); re-opening (prior size: 6189.9 KB)
+0041.331 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 1100 files added (on-disk size: 8476.5 KB)
+0042.999 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 1200 files added (on-disk size: 8476.5 KB)
+0043.771 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 186 (1238) files added so far); re-opening (prior size: 8476.5 KB)
+0046.508 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 1300 files added (on-disk size: 9628.9 KB)
+0046.769 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 76 (1314) files added so far); re-opening (prior size: 9628.9 KB)
+0049.772 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 73 (1387) files added so far); re-opening (prior size: 9798.2 KB)
+0050.913 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 1400 files added (on-disk size: 11002.9 KB)
+0052.753 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 90 (1477) files added so far); re-opening (prior size: 11002.9 KB)
+0053.853 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 1500 files added (on-disk size: 11825.1 KB)
+0055.755 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 95 (1572) files added so far); re-opening (prior size: 11825.1 KB)
+0057.515 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 1600 files added (on-disk size: 12146.8 KB)
+0059.765 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 111 (1683) files added so far); re-opening (prior size: 12146.8 KB)
+0060.814 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 1700 files added (on-disk size: 12446.4 KB)
+0062.823 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 34 (1717) files added so far); re-opening (prior size: 12446.4 KB)
+0065.775 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 49 (1766) files added so far); re-opening (prior size: 12548 KB)
+0068.439 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 1800 files added (on-disk size: 12672.1 KB)
+0068.749 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 45 (1811) files added so far); re-opening (prior size: 12672.1 KB)
+0071.772 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 84 (1895) files added so far); re-opening (prior size: 12729.6 KB)
+0073.007 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 1900 files added (on-disk size: 12928.8 KB)
+0075.754 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 89 (1984) files added so far); re-opening (prior size: 12928.8 KB)
+0076.717 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 2000 files added (on-disk size: 13102.5 KB)
+0078.635 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 2100 files added (on-disk size: 13102.5 KB)
+0078.769 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 127 (2111) files added so far); re-opening (prior size: 13102.5 KB)
+0080.865 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 2200 files added (on-disk size: 13291.8 KB)
+0081.858 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 153 (2264) files added so far); re-opening (prior size: 13291.8 KB)
+0083.015 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 2300 files added (on-disk size: 14082.9 KB)
+0084.330 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 2400 files added (on-disk size: 14082.9 KB)
+0084.747 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 165 (2429) files added so far); re-opening (prior size: 14082.9 KB)
+0086.704 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 2500 files added (on-disk size: 14640.5 KB)
+0087.464 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 2600 files added (on-disk size: 14640.5 KB)
+0087.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 222 (2651) files added so far); re-opening (prior size: 14640.5 KB)
+0088.929 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 2700 files added (on-disk size: 14955.6 KB)
+0090.099 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 2800 files added (on-disk size: 14955.6 KB)
+0091.049 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 202 (2853) files added so far); re-opening (prior size: 14955.6 KB)
+0095.996 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 2900 files added (on-disk size: 16424 KB)
+0096.140 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 3000 files added (on-disk size: 16424 KB)
+0096.314 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 3100 files added (on-disk size: 16424 KB)
+0096.439 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 3200 files added (on-disk size: 16424 KB)
+0096.742 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 3300 files added (on-disk size: 16424 KB)
+0096.785 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.6 MB, 14915 files batched, 501 (3354) added so far); re-opening (prior size: 16424 KB)
+0101.961 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 3400 files added (on-disk size: 18746 KB)
+0102.056 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 3500 files added (on-disk size: 18746 KB)
+0102.164 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 3600 files added (on-disk size: 18746 KB)
+0102.427 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 3700 files added (on-disk size: 18746 KB)
+0103.058 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 3800 files added (on-disk size: 18746 KB)
+0103.492 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.9 MB, 14915 files batched, 501 (3855) added so far); re-opening (prior size: 18746 KB)
+0116.105 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 3900 files added (on-disk size: 21818.3 KB)
+0117.765 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 134 (3989) files added so far); re-opening (prior size: 21818.3 KB)
+0118.813 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 4000 files added (on-disk size: 22223 KB)
+0120.806 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 105 (4094) files added so far); re-opening (prior size: 22223 KB)
+0121.882 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 4100 files added (on-disk size: 22791.1 KB)
+0123.753 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 51 (4145) files added so far); re-opening (prior size: 22791.1 KB)
+0127.047 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 43 (4188) files added so far); re-opening (prior size: 24051 KB)
+0127.861 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 4200 files added (on-disk size: 24082.4 KB)
+0129.099 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 4300 files added (on-disk size: 24082.4 KB)
+0129.826 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 146 (4334) files added so far); re-opening (prior size: 24082.4 KB)
+0133.751 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 42 (4376) files added so far); re-opening (prior size: 25188.1 KB)
+0136.140 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 4400 files added (on-disk size: 25523.1 KB)
+0137.743 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 4500 files added (on-disk size: 25523.1 KB)
+0137.751 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 125 (4501) files added so far); re-opening (prior size: 25523.1 KB)
+0142.266 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 4600 files added (on-disk size: 26330.9 KB)
+0142.910 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 4700 files added (on-disk size: 26330.9 KB)
+0143.759 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 261 (4762) files added so far); re-opening (prior size: 26330.9 KB)
+0147.726 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 4800 files added (on-disk size: 26916.2 KB)
+0149.809 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 56 (4818) files added so far); re-opening (prior size: 26916.2 KB)
+0152.993 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 49 (4867) files added so far); re-opening (prior size: 27071.4 KB)
+0154.560 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 4900 files added (on-disk size: 27447.8 KB)
+0156.767 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 83 (4950) files added so far); re-opening (prior size: 27447.8 KB)
+0158.723 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 5000 files added (on-disk size: 27687.7 KB)
+0159.768 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 137 (5087) files added so far); re-opening (prior size: 27687.7 KB)
+0162.057 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 5100 files added (on-disk size: 28101.5 KB)
+0162.972 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 5200 files added (on-disk size: 28101.5 KB)
+0163.761 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 172 (5259) files added so far); re-opening (prior size: 28101.5 KB)
+0165.200 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 5300 files added (on-disk size: 28271.3 KB)
+0166.110 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 5400 files added (on-disk size: 28271.3 KB)
+0166.760 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 240 (5499) files added so far); re-opening (prior size: 28271.3 KB)
+0167.796 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 5500 files added (on-disk size: 28410.3 KB)
+0169.923 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 99 (5598) files added so far); re-opening (prior size: 28410.3 KB)
+0170.930 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 5600 files added (on-disk size: 28459.5 KB)
+0172.403 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 5700 files added (on-disk size: 28459.5 KB)
+0173.762 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 164 (5762) files added so far); re-opening (prior size: 28459.5 KB)
+0177.335 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 5800 files added (on-disk size: 28768.2 KB)
+0177.747 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 78 (5840) files added so far); re-opening (prior size: 28768.2 KB)
+0181.750 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 37 (5877) files added so far); re-opening (prior size: 29427 KB)
+0182.833 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 5900 files added (on-disk size: 29669.9 KB)
+0184.871 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 101 (5978) files added so far); re-opening (prior size: 29669.9 KB)
+0186.851 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 6000 files added (on-disk size: 29895.6 KB)
+0188.787 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 90 (6068) files added so far); re-opening (prior size: 29895.6 KB)
+0192.350 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 6100 files added (on-disk size: 30293.3 KB)
+0194.748 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 132 (6200) files added so far); re-opening (prior size: 30293.3 KB)
+0197.898 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 6200 files added (on-disk size: 30658.2 KB)
+0199.791 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 6300 files added (on-disk size: 30658.2 KB)
+0200.762 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 168 (6368) files added so far); re-opening (prior size: 30658.2 KB)
+0206.434 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 6400 files added (on-disk size: 30896.9 KB)
+0207.782 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 102 (6470) files added so far); re-opening (prior size: 30896.9 KB)
+0211.016 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 6500 files added (on-disk size: 31479 KB)
+0211.774 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 6600 files added (on-disk size: 31479 KB)
+0212.748 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 195 (6665) files added so far); re-opening (prior size: 31479 KB)
+0218.562 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 6700 files added (on-disk size: 31838.1 KB)
+0219.760 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 114 (6779) files added so far); re-opening (prior size: 31838.1 KB)
+0228.018 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 6800 files added (on-disk size: 33373.2 KB)
+0229.633 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 6900 files added (on-disk size: 33373.2 KB)
+0229.757 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 126 (6905) files added so far); re-opening (prior size: 33373.2 KB)
+0235.987 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 7000 files added (on-disk size: 33649.9 KB)
+0236.751 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 143 (7048) files added so far); re-opening (prior size: 33649.9 KB)
+0241.606 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 7100 files added (on-disk size: 33838.9 KB)
+0242.559 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 7200 files added (on-disk size: 33838.9 KB)
+0243.533 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 7300 files added (on-disk size: 33838.9 KB)
+0243.754 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.1 MB, 288 (7336) files added so far); re-opening (prior size: 33838.9 KB)
+0254.733 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 7400 files added (on-disk size: 36026.4 KB)
+0255.804 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 109 (7445) files added so far); re-opening (prior size: 36026.4 KB)
+0258.296 (0) The scheduled resumption is within 45 seconds - will reschedule
+0258.300 (0) Rescheduling resumption 1: moving to 345 seconds from now (1550658728)
+0258.306 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0260.772 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 44 (7489) files added so far); re-opening (prior size: 36123.1 KB)
+0262.548 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 7500 files added (on-disk size: 36211.9 KB)
+0264.802 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 40 (7529) files added so far); re-opening (prior size: 36211.9 KB)
+0270.012 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 7600 files added (on-disk size: 37073.1 KB)
+0270.810 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 163 (7692) files added so far); re-opening (prior size: 37073.1 KB)
+0275.533 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 7700 files added (on-disk size: 37746.9 KB)
+0276.356 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 7800 files added (on-disk size: 37746.9 KB)
+0276.883 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 7900 files added (on-disk size: 37746.9 KB)
+0277.457 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 8000 files added (on-disk size: 37746.9 KB)
+0277.774 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 338 (8030) files added so far); re-opening (prior size: 37746.9 KB)
+0282.856 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 8100 files added (on-disk size: 38355 KB)
+0283.734 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 8200 files added (on-disk size: 38355 KB)
+0284.431 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 8300 files added (on-disk size: 38355 KB)
+0284.787 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 297 (8327) files added so far); re-opening (prior size: 38355 KB)
+0290.850 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 8400 files added (on-disk size: 39159.3 KB)
+0292.086 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 8500 files added (on-disk size: 39159.3 KB)
+0292.765 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.2 MB, 229 (8556) files added so far); re-opening (prior size: 39159.3 KB)
+0298.642 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 8600 files added (on-disk size: 40604.8 KB)
+0299.612 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 8700 files added (on-disk size: 40604.8 KB)
+0300.421 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 8800 files added (on-disk size: 40604.8 KB)
+0300.762 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 286 (8842) files added so far); re-opening (prior size: 40604.8 KB)
+0305.338 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 8900 files added (on-disk size: 41458.4 KB)
+0306.178 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 9000 files added (on-disk size: 41458.4 KB)
+0307.686 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 9100 files added (on-disk size: 41458.4 KB)
+0307.747 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 261 (9103) files added so far); re-opening (prior size: 41458.4 KB)
+0311.269 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 9200 files added (on-disk size: 42485 KB)
+0311.748 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 136 (9239) files added so far); re-opening (prior size: 42485 KB)
+0314.931 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 9300 files added (on-disk size: 42801.4 KB)
+0315.755 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 131 (9370) files added so far); re-opening (prior size: 42801.4 KB)
+0317.917 (0) The time we have been running (317.9) is approaching the resumption interval (345) - increasing resumption interval to 348
+0319.101 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 9400 files added (on-disk size: 43200.2 KB)
+0320.113 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 9500 files added (on-disk size: 43200.2 KB)
+0320.755 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.3 MB, 210 (9580) files added so far); re-opening (prior size: 43200.2 KB)
+0323.097 (0) The time we have been running (323.1) is approaching the resumption interval (348) - increasing resumption interval to 354
+0323.340 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 9600 files added (on-disk size: 48383.8 KB)
+0325.092 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 9700 files added (on-disk size: 48383.8 KB)
+0325.750 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 207 (9787) files added so far); re-opening (prior size: 48383.8 KB)
+0326.785 (0) The time we have been running (326.8) is approaching the resumption interval (354) - increasing resumption interval to 357
+0327.015 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 9800 files added (on-disk size: 49490.9 KB)
+0327.919 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 9900 files added (on-disk size: 49490.9 KB)
+0329.170 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 10000 files added (on-disk size: 49490.9 KB)
+0329.747 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.8 MB, 295 (10082) files added so far); re-opening (prior size: 49490.9 KB)
+0331.310 (0) The time we have been running (331.3) is approaching the resumption interval (357) - increasing resumption interval to 362
+0331.706 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 10100 files added (on-disk size: 53414 KB)
+0332.370 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 10200 files added (on-disk size: 53414 KB)
+0333.383 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 10300 files added (on-disk size: 53414 KB)
+0333.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.1 MB, 259 (10341) files added so far); re-opening (prior size: 53414 KB)
+0336.692 (0) The time we have been running (336.7) is approaching the resumption interval (362) - increasing resumption interval to 367
+0337.611 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 10400 files added (on-disk size: 54885.2 KB)
+0338.655 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 10500 files added (on-disk size: 54885.2 KB)
+0338.754 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (15 MB, 181 (10522) files added so far); re-opening (prior size: 54885.2 KB)
+0341.718 (0) The time we have been running (341.7) is approaching the resumption interval (367) - increasing resumption interval to 372
+0342.120 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 10600 files added (on-disk size: 58849.7 KB)
+0342.534 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 10700 files added (on-disk size: 58849.7 KB)
+0342.975 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 10800 files added (on-disk size: 58849.7 KB)
+0343.771 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 356 (10878) files added so far); re-opening (prior size: 58849.7 KB)
+0344.853 (0) The time we have been running (344.9) is approaching the resumption interval (372) - increasing resumption interval to 375
+0345.112 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 10900 files added (on-disk size: 59410.8 KB)
+0345.918 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 11000 files added (on-disk size: 59410.8 KB)
+0346.745 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 11100 files added (on-disk size: 59410.8 KB)
+0347.690 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 11200 files added (on-disk size: 59410.8 KB)
+0347.757 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 327 (11205) files added so far); re-opening (prior size: 59410.8 KB)
+0349.911 (0) The time we have been running (349.9) is approaching the resumption interval (375) - increasing resumption interval to 380
+0350.919 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 11300 files added (on-disk size: 59991.4 KB)
+0352.820 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 177 (11382) files added so far); re-opening (prior size: 59991.4 KB)
+0353.565 (0) The time we have been running (353.6) is approaching the resumption interval (380) - increasing resumption interval to 384
+0354.111 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 11400 files added (on-disk size: 60180.5 KB)
+0356.421 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 37 (11419) files added so far); re-opening (prior size: 60180.5 KB)
+0357.313 (0) The time we have been running (357.3) is approaching the resumption interval (384) - increasing resumption interval to 388
+0359.775 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 43 (11462) files added so far); re-opening (prior size: 60234.2 KB)
+0360.382 (0) The time we have been running (360.4) is approaching the resumption interval (388) - increasing resumption interval to 391
+0361.039 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 11500 files added (on-disk size: 60292.4 KB)
+0363.680 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 60 (11522) files added so far); re-opening (prior size: 60292.4 KB)
+0368.020 (0) The time we have been running (368) is approaching the resumption interval (391) - increasing resumption interval to 399
+0369.074 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 11600 files added (on-disk size: 60744.4 KB)
+0369.418 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 11700 files added (on-disk size: 60744.4 KB)
+0369.716 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 11800 files added (on-disk size: 60744.4 KB)
+0369.958 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 11900 files added (on-disk size: 60744.4 KB)
+0370.472 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 12000 files added (on-disk size: 60744.4 KB)
+0370.668 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.3 MB, 14915 files batched, 501 (12023) added so far); re-opening (prior size: 60744.4 KB)
+0375.931 (0) The time we have been running (375.9) is approaching the resumption interval (399) - increasing resumption interval to 406
+0376.396 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 12100 files added (on-disk size: 63162.1 KB)
+0377.941 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 12200 files added (on-disk size: 63162.1 KB)
+0378.776 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3 MB, 216 (12239) files added so far); re-opening (prior size: 63162.1 KB)
+0383.887 (0) The time we have been running (383.9) is approaching the resumption interval (406) - increasing resumption interval to 414
+0385.562 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 12300 files added (on-disk size: 64967.9 KB)
+0386.751 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.4 MB, 111 (12350) files added so far); re-opening (prior size: 64967.9 KB)
+0387.812 (0) The time we have been running (387.8) is approaching the resumption interval (414) - increasing resumption interval to 418
+0390.749 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 17 (12367) files added so far); re-opening (prior size: 66097.2 KB)
+0393.530 (0) The time we have been running (393.5) is approaching the resumption interval (418) - increasing resumption interval to 424
+0394.351 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 12400 files added (on-disk size: 66144.5 KB)
+0395.754 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 103 (12470) files added so far); re-opening (prior size: 66144.5 KB)
+0396.662 (0) The time we have been running (396.7) is approaching the resumption interval (424) - increasing resumption interval to 427
+0399.562 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 19 (12489) files added so far); re-opening (prior size: 66427.6 KB)
+0402.829 (0) The time we have been running (402.8) is approaching the resumption interval (427) - increasing resumption interval to 433
+0403.709 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 12500 files added (on-disk size: 66689 KB)
+0404.593 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 12600 files added (on-disk size: 66689 KB)
+0405.784 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 186 (12675) files added so far); re-opening (prior size: 66689 KB)
+0407.031 (0) The time we have been running (407) is approaching the resumption interval (433) - increasing resumption interval to 438
+0410.084 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 12 (12687) files added so far); re-opening (prior size: 67197.7 KB)
+0411.063 (0) The time we have been running (411.1) is approaching the resumption interval (438) - increasing resumption interval to 442
+0411.969 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 12700 files added (on-disk size: 67217 KB)
+0413.775 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 74 (12761) files added so far); re-opening (prior size: 67217 KB)
+0414.443 (0) The time we have been running (414.4) is approaching the resumption interval (442) - increasing resumption interval to 445
+0415.379 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 12800 files added (on-disk size: 67356.6 KB)
+0416.957 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 81 (12842) files added so far); re-opening (prior size: 67356.6 KB)
+0417.993 (0) The time we have been running (418) is approaching the resumption interval (445) - increasing resumption interval to 448
+0420.032 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 12900 files added (on-disk size: 67660.1 KB)
+0420.747 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 132 (12974) files added so far); re-opening (prior size: 67660.1 KB)
+0425.208 (0) The time we have been running (425.2) is approaching the resumption interval (448) - increasing resumption interval to 456
+0425.852 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 13000 files added (on-disk size: 68062.6 KB)
+0427.523 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 13100 files added (on-disk size: 68062.6 KB)
+0427.772 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 137 (13111) files added so far); re-opening (prior size: 68062.6 KB)
+0434.132 (0) The time we have been running (434.1) is approaching the resumption interval (456) - increasing resumption interval to 465
+0436.596 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 13200 files added (on-disk size: 68351.7 KB)
+0436.783 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 95 (13206) files added so far); re-opening (prior size: 68351.7 KB)
+0439.889 (0) The time we have been running (439.9) is approaching the resumption interval (465) - increasing resumption interval to 470
+0442.760 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 59 (13265) files added so far); re-opening (prior size: 68607.7 KB)
+0443.341 (0) The time we have been running (443.3) is approaching the resumption interval (470) - increasing resumption interval to 474
+0445.987 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 33 (13298) files added so far); re-opening (prior size: 68667 KB)
+0446.710 (0) The time we have been running (446.7) is approaching the resumption interval (474) - increasing resumption interval to 477
+0446.858 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 13300 files added (on-disk size: 68700.5 KB)
+0448.767 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 23 (13321) files added so far); re-opening (prior size: 68700.5 KB)
+0449.515 (0) The time we have been running (449.5) is approaching the resumption interval (477) - increasing resumption interval to 480
+0452.130 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 6 (13327) files added so far); re-opening (prior size: 68719.5 KB)
+0454.816 (0) The time we have been running (454.8) is approaching the resumption interval (480) - increasing resumption interval to 485
+0457.775 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 69 (13396) files added so far); re-opening (prior size: 71428.8 KB)
+0461.953 (0) The time we have been running (462) is approaching the resumption interval (485) - increasing resumption interval to 492
+0462.419 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 13400 files added (on-disk size: 71787.9 KB)
+0464.038 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 13500 files added (on-disk size: 71787.9 KB)
+0464.777 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3 MB, 152 (13548) files added so far); re-opening (prior size: 71787.9 KB)
+0471.734 (0) The time we have been running (471.7) is approaching the resumption interval (492) - increasing resumption interval to 502
+0473.279 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 13600 files added (on-disk size: 72593.5 KB)
+0473.772 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 82 (13630) files added so far); re-opening (prior size: 72593.5 KB)
+0477.448 (0) The time we have been running (477.4) is approaching the resumption interval (502) - increasing resumption interval to 508
+0479.338 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 13700 files added (on-disk size: 72705.3 KB)
+0479.761 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 111 (13741) files added so far); re-opening (prior size: 72705.3 KB)
+0481.020 (0) The time we have been running (481) is approaching the resumption interval (508) - increasing resumption interval to 512
+0483.751 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 23 (13764) files added so far); re-opening (prior size: 72832.1 KB)
+0484.631 (0) The time we have been running (484.6) is approaching the resumption interval (512) - increasing resumption interval to 515
+0487.584 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 22 (13786) files added so far); re-opening (prior size: 72856.4 KB)
+0489.259 (0) The time we have been running (489.3) is approaching the resumption interval (515) - increasing resumption interval to 520
+0491.747 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 6 (13792) files added so far); re-opening (prior size: 72883.8 KB)
+0495.057 (0) The time we have been running (495.1) is approaching the resumption interval (520) - increasing resumption interval to 526
+0497.505 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 13800 files added (on-disk size: 72889.4 KB)
+0497.765 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 12 (13804) files added so far); re-opening (prior size: 72889.4 KB)
+0498.463 (0) The time we have been running (498.5) is approaching the resumption interval (526) - increasing resumption interval to 529
+0500.955 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 44 (13848) files added so far); re-opening (prior size: 72899.7 KB)
+0502.833 (0) The time we have been running (502.8) is approaching the resumption interval (529) - increasing resumption interval to 533
+0503.998 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 13900 files added (on-disk size: 72947 KB)
+0505.501 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 14000 files added (on-disk size: 72947 KB)
+0505.772 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 175 (14023) files added so far); re-opening (prior size: 72947 KB)
+0514.806 (0) The time we have been running (514.8) is approaching the resumption interval (533) - increasing resumption interval to 545
+0517.429 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 14100 files added (on-disk size: 74295.4 KB)
+0517.788 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 85 (14108) files added so far); re-opening (prior size: 74295.4 KB)
+0518.682 (1) Opened log file at time: Wed, 20 Feb 2019 10:30:43 +0000 on http://localhost/alpha
+0518.683 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.0 WP: 4.9.9 PHP: 7.2.12 (apache2handler, Windows NT DESKTOP-7TDVB2V 10.0 build 17134 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 62.2M | 14M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0518.684 (1) Free space on disk containing Updraft's temporary directory: 439167.9 MB
+0518.686 (1) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1550658640.1, time_now=1550658643.9, diff=3, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+0518.686 (1) A new resumption will be scheduled to prevent the job ending
+0518.687 (1) Rescheduling resumption 2: moving to 665 seconds from now (1550659308)
+0518.689 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 545 + 120 = 665
+0521.924 (0) The time we have been running (521.9) is approaching the resumption interval (545) - increasing resumption interval to 552
+0524.751 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 82 (14190) files added so far); re-opening (prior size: 75543 KB)
+0525.595 (0) The time we have been running (525.6) is approaching the resumption interval (552) - increasing resumption interval to 556
+0526.083 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 14200 files added (on-disk size: 75764.2 KB)
+0528.323 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 23 (14213) files added so far); re-opening (prior size: 75764.2 KB)
+0532.730 (0) The time we have been running (532.7) is approaching the resumption interval (556) - increasing resumption interval to 563
+0534.830 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 5 (14218) files added so far); re-opening (prior size: 75824.8 KB)
+0535.727 (0) The time we have been running (535.7) is approaching the resumption interval (563) - increasing resumption interval to 566
+0537.775 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 49 (14267) files added so far); re-opening (prior size: 75848.8 KB)
+0544.075 (0) The time we have been running (544.1) is approaching the resumption interval (566) - increasing resumption interval to 575
+0545.592 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 14300 files added (on-disk size: 75922.8 KB)
+0546.758 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 101 (14368) files added so far); re-opening (prior size: 75922.8 KB)
+0549.341 (0) The time we have been running (549.3) is approaching the resumption interval (575) - increasing resumption interval to 580
+0550.732 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 14400 files added (on-disk size: 76083.7 KB)
+0551.769 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 71 (14439) files added so far); re-opening (prior size: 76083.7 KB)
+0552.463 (0) The time we have been running (552.5) is approaching the resumption interval (580) - increasing resumption interval to 583
+0554.755 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 56 (14495) files added so far); re-opening (prior size: 76209.7 KB)
+0559.218 (0) The time we have been running (559.2) is approaching the resumption interval (583) - increasing resumption interval to 590
+0559.219 (0) The scheduled resumption is within 45 seconds - will reschedule
+0559.220 (0) Rescheduling resumption 1: moving to 635 seconds from now (1550659319)
+0559.222 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 590 + 45 = 635
+0561.910 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 2 (14497) files added so far); re-opening (prior size: 76562.6 KB)
+0565.113 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 2 (14499) files added so far); re-opening (prior size: 76565.5 KB)
+0568.641 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 14500 files added (on-disk size: 76571.3 KB)
+0570.153 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 2 (14501) files added so far); re-opening (prior size: 76571.3 KB)
+0573.835 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 2 (14503) files added so far); re-opening (prior size: 76572.6 KB)
+0578.489 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 2 (14505) files added so far); re-opening (prior size: 76574.7 KB)
+0583.205 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 2 (14507) files added so far); re-opening (prior size: 76577.4 KB)
+0588.264 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 4 (14511) files added so far); re-opening (prior size: 76581.7 KB)
+0592.996 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 11 (14522) files added so far); re-opening (prior size: 76584.2 KB)
+0601.725 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 2 (14524) files added so far); re-opening (prior size: 76708.4 KB)
+0608.409 (0) The time we have been running (608.4) is approaching the resumption interval (635) - increasing resumption interval to 639
+0612.244 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 2 (14526) files added so far); re-opening (prior size: 76712.5 KB)
+0619.949 (0) The time we have been running (619.9) is approaching the resumption interval (639) - increasing resumption interval to 650
+0623.440 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 3 (14529) files added so far); re-opening (prior size: 76722.8 KB)
+0624.996 (0) The time we have been running (625) is approaching the resumption interval (650) - increasing resumption interval to 655
+0628.102 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (14530) files added so far); re-opening (prior size: 76726.9 KB)
+0634.366 (0) The time we have been running (634.4) is approaching the resumption interval (655) - increasing resumption interval to 665
+0636.943 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 8 (14538) files added so far); re-opening (prior size: 76730.8 KB)
+0638.651 (0) The time we have been running (638.6) is approaching the resumption interval (665) - increasing resumption interval to 669
+0641.453 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (14539) files added so far); re-opening (prior size: 77269.6 KB)
+0646.556 (0) The time we have been running (646.6) is approaching the resumption interval (669) - increasing resumption interval to 677
+0648.900 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (14540) files added so far); re-opening (prior size: 77333.2 KB)
+0652.542 (0) The time we have been running (652.5) is approaching the resumption interval (677) - increasing resumption interval to 683
+0655.264 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 5 (14545) files added so far); re-opening (prior size: 77350.2 KB)
+0656.042 (0) The time we have been running (656) is approaching the resumption interval (683) - increasing resumption interval to 687
+0659.031 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 20 (14565) files added so far); re-opening (prior size: 77434.8 KB)
+0667.522 (0) The time we have been running (667.5) is approaching the resumption interval (687) - increasing resumption interval to 698
+0670.038 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 3 (14568) files added so far); re-opening (prior size: 78066.4 KB)
+0673.089 (0) The time we have been running (673.1) is approaching the resumption interval (698) - increasing resumption interval to 704
+0675.784 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 28 (14596) files added so far); re-opening (prior size: 78078 KB)
+0679.873 (0) The time we have been running (679.9) is approaching the resumption interval (704) - increasing resumption interval to 710
+0680.351 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 14600 files added (on-disk size: 78317.6 KB)
+0682.748 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 70 (14666) files added so far); re-opening (prior size: 78317.6 KB)
+0688.905 (0) The time we have been running (688.9) is approaching the resumption interval (710) - increasing resumption interval to 719
+0692.776 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 11 (14677) files added so far); re-opening (prior size: 78626.7 KB)
+0694.278 (0) The time we have been running (694.3) is approaching the resumption interval (719) - increasing resumption interval to 725
+0696.757 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 5 (14682) files added so far); re-opening (prior size: 78657.3 KB)
+0698.221 (0) The time we have been running (698.2) is approaching the resumption interval (725) - increasing resumption interval to 729
+0699.831 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 14700 files added (on-disk size: 78675.2 KB)
+0700.766 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 26 (14708) files added so far); re-opening (prior size: 78675.2 KB)
+0703.410 (0) The time we have been running (703.4) is approaching the resumption interval (729) - increasing resumption interval to 734
+0706.823 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 2 (14710) files added so far); re-opening (prior size: 78954.3 KB)
+0709.500 (0) The time we have been running (709.5) is approaching the resumption interval (734) - increasing resumption interval to 740
+0712.873 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (14711) files added so far); re-opening (prior size: 78966 KB)
+0713.649 (0) The time we have been running (713.6) is approaching the resumption interval (740) - increasing resumption interval to 744
+0716.728 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 17 (14728) files added so far); re-opening (prior size: 78970.7 KB)
+0720.257 (0) The time we have been running (720.3) is approaching the resumption interval (744) - increasing resumption interval to 751
+0722.782 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 61 (14789) files added so far); re-opening (prior size: 79110.3 KB)
+0733.224 (0) The time we have been running (733.2) is approaching the resumption interval (751) - increasing resumption interval to 764
+0735.170 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 14800 files added (on-disk size: 79597.4 KB)
+0735.948 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 34 (14823) files added so far); re-opening (prior size: 79597.4 KB)
+0737.375 (0) The time we have been running (737.4) is approaching the resumption interval (764) - increasing resumption interval to 768
+0740.342 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 10 (14833) files added so far); re-opening (prior size: 79733.5 KB)
+0741.236 (0) The time we have been running (741.2) is approaching the resumption interval (768) - increasing resumption interval to 772
+0744.083 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 7 (14840) files added so far); re-opening (prior size: 79775.8 KB)
+0747.553 (0) The time we have been running (747.6) is approaching the resumption interval (772) - increasing resumption interval to 778
+0749.923 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 10 (14850) files added so far); re-opening (prior size: 79806 KB)
+0750.917 (0) The time we have been running (750.9) is approaching the resumption interval (778) - increasing resumption interval to 781
+0754.121 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 4 (14854) files added so far); re-opening (prior size: 79848 KB)
+0756.199 (0) The time we have been running (756.2) is approaching the resumption interval (781) - increasing resumption interval to 787
+0759.676 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (14855) files added so far); re-opening (prior size: 79858.6 KB)
+0761.289 (0) The time we have been running (761.3) is approaching the resumption interval (787) - increasing resumption interval to 792
+0763.873 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 2 (14857) files added so far); re-opening (prior size: 79861 KB)
+0766.378 (0) The time we have been running (766.4) is approaching the resumption interval (792) - increasing resumption interval to 797
+0769.336 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (14858) files added so far); re-opening (prior size: 79865.4 KB)
+0772.295 (0) The time we have been running (772.3) is approaching the resumption interval (797) - increasing resumption interval to 803
+0775.302 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 3 (14861) files added so far); re-opening (prior size: 79866.8 KB)
+0776.161 (0) The time we have been running (776.2) is approaching the resumption interval (803) - increasing resumption interval to 807
+0778.790 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 36 (14897) files added so far); re-opening (prior size: 79869.9 KB)
+0784.067 (0) The time we have been running (784.1) is approaching the resumption interval (807) - increasing resumption interval to 815
+0786.236 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip.tmp: 14900 files added (on-disk size: 79902.1 KB)
+0790.938 (0) The time we have been running (790.9) is approaching the resumption interval (815) - increasing resumption interval to 821
+0794.320 (0) Created plugins zip (0) - 79932.8 KB in 793.8 s (100.7 KB/s) (sha1: ff1d16540f1ae3f1ef486dfd65c0736de01c9bd0, sha256: d6f7689e2697cc7b20517faa46b361511195c6fac9a361927a24bcfef81ef546)
+0794.625 (0) Beginning creation of dump of themes (split every: 400 MB)
+0818.952 (0) Total entities for the zip file: 382 directories, 3971 files (0 skipped as non-modified), 31.5 MB
+0818.956 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0818.978 (0) The time we have been running (819) is approaching the resumption interval (821) - increasing resumption interval to 849
+0819.551 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 100 files added (on-disk size: 65 KB)
+0820.627 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 200 files added (on-disk size: 65 KB)
+0821.096 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 300 files added (on-disk size: 65 KB)
+0821.760 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 392 (393) files added so far); re-opening (prior size: 65 KB)
+0821.957 (0) The time we have been running (822) is approaching the resumption interval (849) - increasing resumption interval to 852
+0822.076 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 400 files added (on-disk size: 246.9 KB)
+0822.805 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 500 files added (on-disk size: 246.9 KB)
+0823.298 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 600 files added (on-disk size: 246.9 KB)
+0823.915 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 700 files added (on-disk size: 246.9 KB)
+0824.642 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 800 files added (on-disk size: 246.9 KB)
+0824.777 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 426 (819) files added so far); re-opening (prior size: 246.9 KB)
+0824.993 (0) The time we have been running (825) is approaching the resumption interval (852) - increasing resumption interval to 855
+0825.888 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 900 files added (on-disk size: 455.2 KB)
+0826.850 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 1000 files added (on-disk size: 455.2 KB)
+0827.711 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 1100 files added (on-disk size: 455.2 KB)
+0827.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 285 (1104) files added so far); re-opening (prior size: 455.2 KB)
+0827.898 (0) The time we have been running (827.9) is approaching the resumption interval (855) - increasing resumption interval to 858
+0828.710 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 1200 files added (on-disk size: 609.2 KB)
+0828.911 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 1300 files added (on-disk size: 609.2 KB)
+0829.209 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 1400 files added (on-disk size: 609.2 KB)
+0829.492 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 1500 files added (on-disk size: 609.2 KB)
+0830.510 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 1600 files added (on-disk size: 609.2 KB)
+0830.544 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.2 MB, 3971 files batched, 501 (1605) added so far); re-opening (prior size: 609.2 KB)
+0830.847 (0) The time we have been running (830.8) is approaching the resumption interval (858) - increasing resumption interval to 861
+0831.496 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 1700 files added (on-disk size: 831.3 KB)
+0832.426 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 1800 files added (on-disk size: 831.3 KB)
+0833.444 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 1900 files added (on-disk size: 831.3 KB)
+0833.758 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 329 (1934) files added so far); re-opening (prior size: 831.3 KB)
+0833.980 (0) The time we have been running (834) is approaching the resumption interval (861) - increasing resumption interval to 864
+0834.691 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 2000 files added (on-disk size: 1033.5 KB)
+0836.355 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 2100 files added (on-disk size: 1033.5 KB)
+0836.781 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 176 (2110) files added so far); re-opening (prior size: 1033.5 KB)
+0837.032 (0) The time we have been running (837) is approaching the resumption interval (864) - increasing resumption interval to 868
+0839.762 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 50 (2160) files added so far); re-opening (prior size: 1398.9 KB)
+0840.201 (0) The time we have been running (840.2) is approaching the resumption interval (868) - increasing resumption interval to 871
+0841.258 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 2200 files added (on-disk size: 2065.4 KB)
+0842.751 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 96 (2256) files added so far); re-opening (prior size: 2065.4 KB)
+0843.510 (0) The time we have been running (843.5) is approaching the resumption interval (871) - increasing resumption interval to 874
+0844.087 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 2300 files added (on-disk size: 2363.2 KB)
+0845.553 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 2400 files added (on-disk size: 2363.2 KB)
+0845.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 159 (2415) files added so far); re-opening (prior size: 2363.2 KB)
+0845.926 (0) The time we have been running (845.9) is approaching the resumption interval (874) - increasing resumption interval to 876
+0848.069 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 2500 files added (on-disk size: 2515.1 KB)
+0848.805 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 135 (2550) files added so far); re-opening (prior size: 2515.1 KB)
+0849.031 (0) The time we have been running (849) is approaching the resumption interval (876) - increasing resumption interval to 880
+0850.898 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 2600 files added (on-disk size: 2631.7 KB)
+0851.755 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 68 (2618) files added so far); re-opening (prior size: 2631.7 KB)
+0851.971 (0) The time we have been running (852) is approaching the resumption interval (880) - increasing resumption interval to 882
+0853.646 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 2700 files added (on-disk size: 2705.1 KB)
+0854.767 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 172 (2790) files added so far); re-opening (prior size: 2705.1 KB)
+0855.687 (0) The time we have been running (855.7) is approaching the resumption interval (882) - increasing resumption interval to 886
+0855.917 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 2800 files added (on-disk size: 2950.5 KB)
+0857.757 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 93 (2883) files added so far); re-opening (prior size: 2950.5 KB)
+0858.164 (0) The time we have been running (858.2) is approaching the resumption interval (886) - increasing resumption interval to 889
+0858.756 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 2900 files added (on-disk size: 3673.5 KB)
+0860.757 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 99 (2982) files added so far); re-opening (prior size: 3673.5 KB)
+0861.223 (0) The time we have been running (861.2) is approaching the resumption interval (889) - increasing resumption interval to 892
+0861.483 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 3000 files added (on-disk size: 3896.2 KB)
+0863.751 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 92 (3074) files added so far); re-opening (prior size: 3896.2 KB)
+0864.555 (0) The time we have been running (864.6) is approaching the resumption interval (892) - increasing resumption interval to 895
+0865.191 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 3100 files added (on-disk size: 4197 KB)
+0866.771 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 74 (3148) files added so far); re-opening (prior size: 4197 KB)
+0867.167 (0) The time we have been running (867.2) is approaching the resumption interval (895) - increasing resumption interval to 898
+0868.263 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 3200 files added (on-disk size: 4508.2 KB)
+0869.764 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.9 MB, 124 (3272) files added so far); re-opening (prior size: 4508.2 KB)
+0872.606 (0) The time we have been running (872.6) is approaching the resumption interval (898) - increasing resumption interval to 903
+0873.648 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 3300 files added (on-disk size: 5566.2 KB)
+0874.800 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 80 (3352) files added so far); re-opening (prior size: 5566.2 KB)
+0876.369 (0) The time we have been running (876.4) is approaching the resumption interval (903) - increasing resumption interval to 907
+0878.078 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 3400 files added (on-disk size: 6134.9 KB)
+0878.955 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.7 MB, 66 (3418) files added so far); re-opening (prior size: 6134.9 KB)
+0880.141 (0) The time we have been running (880.1) is approaching the resumption interval (907) - increasing resumption interval to 911
+0882.701 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 3500 files added (on-disk size: 7933.6 KB)
+0882.748 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 84 (3502) files added so far); re-opening (prior size: 7933.6 KB)
+0883.062 (0) The time we have been running (883.1) is approaching the resumption interval (911) - increasing resumption interval to 914
+0884.915 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 3600 files added (on-disk size: 8325 KB)
+0885.780 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 136 (3638) files added so far); re-opening (prior size: 8325 KB)
+0887.157 (0) The time we have been running (887.2) is approaching the resumption interval (914) - increasing resumption interval to 918
+0887.921 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 3700 files added (on-disk size: 8507.6 KB)
+0889.794 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 152 (3790) files added so far); re-opening (prior size: 8507.6 KB)
+0890.933 (0) The time we have been running (890.9) is approaching the resumption interval (918) - increasing resumption interval to 921
+0891.631 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 3800 files added (on-disk size: 8685.2 KB)
+0893.796 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 88 (3878) files added so far); re-opening (prior size: 8685.2 KB)
+0894.488 (0) The time we have been running (894.5) is approaching the resumption interval (921) - increasing resumption interval to 925
+0895.399 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip.tmp: 3900 files added (on-disk size: 9558.1 KB)
+0896.790 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 62 (3940) files added so far); re-opening (prior size: 9558.1 KB)
+0897.183 (0) The time we have been running (897.2) is approaching the resumption interval (925) - increasing resumption interval to 928
+0898.774 (0) The time we have been running (898.8) is approaching the resumption interval (928) - increasing resumption interval to 929
+0898.912 (0) Created themes zip (0) - 10975.1 KB in 104.2 s (105.4 KB/s) (sha1: 7b25eefbd9852aa33eb6ad0dd36039347b4786f8, sha256: babc0aadae520d9e18835d6f3a393594631c88bc639c39743324d5f5ff253024)
+0898.991 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0898.992 (0) Looking for candidates to backup in: C:\xampp\htdocs\alpha/wp-content/uploads
+0899.017 (0) finding files: 2018: adding to list (1)
+0899.018 (0) finding files: 2019: adding to list (2)
+0899.019 (0) finding files: bfi_thumb: adding to list (3)
+0899.020 (0) finding files: elementor: adding to list (4)
+0899.020 (0) finding files: GeoLite2-Country.mmdb: adding to list (5)
+0899.021 (0) finding files: mk_assets: adding to list (6)
+0899.021 (0) finding files: mk_logs: adding to list (7)
+0899.021 (0) finding files: mk_templates: adding to list (8)
+0899.022 (0) finding files: pum: adding to list (9)
+0899.022 (0) finding files: ultimatemember: adding to list (10)
+0899.023 (0) finding files: wc-logs: adding to list (11)
+0899.023 (0) finding files: woocommerce_uploads: adding to list (12)
+0899.024 (0) finding files: wpcf7_uploads: adding to list (13)
+0899.024 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0901.251 (0) Total entities for the zip file: 17 directories, 461 files (0 skipped as non-modified), 15.6 MB
+0901.749 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 13 (13) files added so far); re-opening (prior size: 0 KB)
+0901.798 (0) The time we have been running (901.8) is approaching the resumption interval (929) - increasing resumption interval to 932
+0904.445 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-uploads.zip.tmp: 100 files added (on-disk size: 275 KB)
+0904.761 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 92 (105) files added so far); re-opening (prior size: 275 KB)
+0904.985 (0) The time we have been running (905) is approaching the resumption interval (932) - increasing resumption interval to 935
+0907.753 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 94 (199) files added so far); re-opening (prior size: 2348.1 KB)
+0908.494 (0) The time we have been running (908.5) is approaching the resumption interval (935) - increasing resumption interval to 939
+0908.594 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-uploads.zip.tmp: 200 files added (on-disk size: 4202.9 KB)
+0910.788 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 60 (259) files added so far); re-opening (prior size: 4202.9 KB)
+0911.616 (0) The time we have been running (911.6) is approaching the resumption interval (939) - increasing resumption interval to 942
+0912.988 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-uploads.zip.tmp: 300 files added (on-disk size: 6193.3 KB)
+0913.784 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 79 (338) files added so far); re-opening (prior size: 6193.3 KB)
+0914.487 (0) The time we have been running (914.5) is approaching the resumption interval (942) - increasing resumption interval to 945
+0916.234 (0) Zip: backup_2019-02-20-1022_alpha_products_87d2e39436da-uploads.zip.tmp: 400 files added (on-disk size: 8346.8 KB)
+0916.759 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 80 (418) files added so far); re-opening (prior size: 8346.8 KB)
+0917.440 (0) The time we have been running (917.4) is approaching the resumption interval (945) - increasing resumption interval to 948
+0921.757 (0) The time we have been running (921.8) is approaching the resumption interval (948) - increasing resumption interval to 952
+0921.884 (0) Created uploads zip (0) - 14128.4 KB in 22.9 s (618.2 KB/s) (sha1: d83ff73806d3a044b52bb5799887dfa9992175e3, sha256: 2a79ebd8753599213c0de0743b2cc81ce273c8345a200b6cd3ed9da91caf8b00)
+0921.887 (0) Beginning backup of other directories found in the content directory (index: 0)
+0921.888 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0921.889 (0) Looking for candidates to backup in: C:\xampp\htdocs\alpha/wp-content
+0921.890 (0) finding files: index.php: adding to list (1)
+0921.890 (0) finding files: languages: adding to list (2)
+0921.891 (0) finding files: plugins: skipping: this is the plugins directory
+0921.891 (0) finding files: themes: skipping: this is the themes directory
+0921.892 (0) finding files: updraft: skipping: this is the updraft directory
+0921.893 (0) finding files: upgrade: skipping: excluded by options
+0921.893 (0) finding files: uploads: skipping: this is the uploads directory
+0921.894 (0) finding files: wflogs: adding to list (3)
+0922.145 (0) Total entities for the zip file: 3 directories, 9 files (0 skipped as non-modified), 0 MB
+0922.245 (0) The time we have been running (922.2) is approaching the resumption interval (952) - increasing resumption interval to 953
+0922.250 (0) Created others zip (0) - 3.1 KB in 0.4 s (8.7 KB/s) (sha1: d14f2586881eb6dc4ee1cff7f260c2319fd252fa, sha256: 8e136f12e216fe101fba8c2884e6ac9c1ec65b29cc19fcad8be0415eea21b7ba)
+0922.255 (0) Saving backup status to database (elements: 8)
+0922.258 (0) Beginning creation of database dump (WordPress DB)
+0924.874 (0) Table wp_options: Total expected rows (approximate): 674
+0924.975 (0) Table wp_options: Total rows added: 670 in 0.10 seconds
+0924.977 (0) Table wp_options: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_options.table.gz - 260.7 KB)
+0924.979 (0) The time we have been running (925) is approaching the resumption interval (953) - increasing resumption interval to 955
+0924.990 (0) Table wp_users: Total expected rows (approximate): 1
+0925.045 (0) Table wp_users: Total rows added: 1 in 0.05 seconds
+0925.046 (0) Table wp_users: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_users.table.gz - 0.6 KB)
+0925.049 (0) The time we have been running (925) is approaching the resumption interval (955) - increasing resumption interval to 956
+0925.054 (0) Table wp_usermeta: Total expected rows (approximate): 90
+0925.173 (0) Table wp_usermeta: Total rows added: 90 in 0.12 seconds
+0925.175 (0) Table wp_usermeta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_usermeta.table.gz - 2.5 KB)
+0925.188 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0925.200 (0) Table wp_commentmeta: Total rows added: 0 in 0.01 seconds
+0925.202 (0) Table wp_commentmeta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0925.207 (0) Table wp_comments: Total expected rows (approximate): 19
+0925.300 (0) Table wp_comments: Total rows added: 19 in 0.09 seconds
+0925.304 (0) Table wp_comments: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_comments.table.gz - 1.2 KB)
+0925.474 (0) Table wp_links: Total expected rows (approximate): 0
+0925.482 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0925.484 (0) Table wp_links: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_links.table.gz - 0.4 KB)
+0925.490 (0) Table wp_postmeta: Total expected rows (approximate): 2894
+0925.605 (0) Table wp_postmeta: Total rows added: 2894 in 0.11 seconds
+0925.607 (0) Table wp_postmeta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_postmeta.table.gz - 70.7 KB)
+0925.612 (0) Table wp_posts: Total expected rows (approximate): 252
+0925.663 (0) Table wp_posts: Total rows added: 252 in 0.05 seconds
+0925.676 (0) Table wp_posts: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_posts.table.gz - 21.9 KB)
+0925.735 (0) Table wp_term_relationships: Total expected rows (approximate): 70
+0925.755 (0) Table wp_term_relationships: Total rows added: 70 in 0.02 seconds
+0925.756 (0) Table wp_term_relationships: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_term_relationships.table.gz - 0.6 KB)
+0925.761 (0) Table wp_term_taxonomy: Total expected rows (approximate): 45
+0925.767 (0) Table wp_term_taxonomy: Total rows added: 45 in 0.01 seconds
+0925.769 (0) Table wp_term_taxonomy: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_term_taxonomy.table.gz - 0.8 KB)
+0925.774 (0) Table wp_termmeta: Total expected rows (approximate): 21
+0925.848 (0) Table wp_termmeta: Total rows added: 21 in 0.07 seconds
+0925.849 (0) Table wp_termmeta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_termmeta.table.gz - 0.6 KB)
+0925.889 (0) Table wp_terms: Total expected rows (approximate): 45
+0925.937 (0) Table wp_terms: Total rows added: 45 in 0.05 seconds
+0925.938 (0) Table wp_terms: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_terms.table.gz - 0.9 KB)
+0925.944 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 171
+0925.979 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 171 in 0.03 seconds
+0925.981 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_order_itemmeta.table.gz - 1.5 KB)
+0926.018 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0926.075 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.06 seconds
+0926.076 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0926.079 (0) The time we have been running (926.1) is approaching the resumption interval (956) - increasing resumption interval to 957
+0926.084 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 30
+0926.133 (0) Table wp_yoast_seo_links: Total rows added: 30 in 0.05 seconds
+0926.135 (0) Table wp_yoast_seo_links: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_yoast_seo_links.table.gz - 0.7 KB)
+0926.140 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 112
+0926.153 (0) Table wp_yoast_seo_meta: Total rows added: 112 in 0.01 seconds
+0926.154 (0) Table wp_yoast_seo_meta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_yoast_seo_meta.table.gz - 0.6 KB)
+0926.196 (0) Table wp_cfs_sessions: Total expected rows (approximate): 0
+0926.238 (0) Table wp_cfs_sessions: Total rows added: 0 in 0.04 seconds
+0926.239 (0) Table wp_cfs_sessions: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_cfs_sessions.table.gz - 0.3 KB)
+0926.312 (0) Table wp_cfs_values: Total expected rows (approximate): 0
+0926.321 (0) Table wp_cfs_values: Total rows added: 0 in 0.01 seconds
+0926.322 (0) Table wp_cfs_values: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_cfs_values.table.gz - 0.3 KB)
+0926.352 (0) Table wp_failed_jobs: Total expected rows (approximate): 0
+0926.403 (0) Table wp_failed_jobs: Total rows added: 0 in 0.05 seconds
+0926.404 (0) Table wp_failed_jobs: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_failed_jobs.table.gz - 0.3 KB)
+0926.494 (0) Table wp_loaner_table: Total expected rows (approximate): 0
+0926.500 (0) Table wp_loaner_table: Total rows added: 0 in 0.01 seconds
+0926.502 (0) Table wp_loaner_table: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_loaner_table.table.gz - 0.4 KB)
+0926.567 (0) Table wp_lsystem_loaner_table: Total expected rows (approximate): 0
+0926.610 (0) Table wp_lsystem_loaner_table: Total rows added: 0 in 0.04 seconds
+0926.611 (0) Table wp_lsystem_loaner_table: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_lsystem_loaner_table.table.gz - 0.4 KB)
+0926.617 (0) Table wp_mailchimp_carts: Total expected rows (approximate): 0
+0926.622 (0) Table wp_mailchimp_carts: Total rows added: 0 in 0.00 seconds
+0926.623 (0) Table wp_mailchimp_carts: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_mailchimp_carts.table.gz - 0.3 KB)
+0926.629 (0) Table wp_nextend2_image_storage: Total expected rows (approximate): 7
+0926.636 (0) Table wp_nextend2_image_storage: Total rows added: 7 in 0.01 seconds
+0926.638 (0) Table wp_nextend2_image_storage: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_image_storage.table.gz - 0.8 KB)
+0926.643 (0) Table wp_nextend2_section_storage: Total expected rows (approximate): 3
+0926.660 (0) Table wp_nextend2_section_storage: Total rows added: 3 in 0.02 seconds
+0926.661 (0) Table wp_nextend2_section_storage: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_section_storage.table.gz - 0.5 KB)
+0926.705 (0) Table wp_nextend2_smartslider3_generators: Total expected rows (approximate): 0
+0926.711 (0) Table wp_nextend2_smartslider3_generators: Total rows added: 0 in 0.00 seconds
+0926.712 (0) Table wp_nextend2_smartslider3_generators: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_smartslider3_generators.table.gz - 0.3 KB)
+0926.719 (0) Table wp_nextend2_smartslider3_sliders: Total expected rows (approximate): 2
+0926.726 (0) Table wp_nextend2_smartslider3_sliders: Total rows added: 2 in 0.01 seconds
+0926.732 (0) Table wp_nextend2_smartslider3_sliders: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_smartslider3_sliders.table.gz - 1.8 KB)
+0926.738 (0) Table wp_nextend2_smartslider3_sliders_xref: Total expected rows (approximate): 1
+0926.743 (0) Table wp_nextend2_smartslider3_sliders_xref: Total rows added: 1 in 0.00 seconds
+0926.744 (0) Table wp_nextend2_smartslider3_sliders_xref: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_smartslider3_sliders_xref.table.gz - 0.3 KB)
+0926.750 (0) Table wp_nextend2_smartslider3_slides: Total expected rows (approximate): 7
+0926.802 (0) Table wp_nextend2_smartslider3_slides: Total rows added: 7 in 0.05 seconds
+0926.819 (0) Table wp_nextend2_smartslider3_slides: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_smartslider3_slides.table.gz - 2.4 KB)
+0926.853 (0) Table wp_nf3_action_meta: Total expected rows (approximate): 155
+0926.860 (0) Table wp_nf3_action_meta: Total rows added: 155 in 0.01 seconds
+0926.862 (0) Table wp_nf3_action_meta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_action_meta.table.gz - 2.1 KB)
+0926.903 (0) Table wp_nf3_actions: Total expected rows (approximate): 7
+0926.943 (0) Table wp_nf3_actions: Total rows added: 7 in 0.04 seconds
+0926.944 (0) Table wp_nf3_actions: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_actions.table.gz - 0.6 KB)
+0926.990 (0) Table wp_nf3_chunks: Total expected rows (approximate): 0
+0927.003 (0) Table wp_nf3_chunks: Total rows added: 0 in 0.01 seconds
+0927.005 (0) Table wp_nf3_chunks: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_chunks.table.gz - 0.3 KB)
+0927.007 (0) The time we have been running (927) is approaching the resumption interval (957) - increasing resumption interval to 958
+0927.020 (0) Table wp_nf3_field_meta: Total expected rows (approximate): 462
+0927.122 (0) Table wp_nf3_field_meta: Total rows added: 462 in 0.10 seconds
+0927.124 (0) Table wp_nf3_field_meta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_field_meta.table.gz - 7.9 KB)
+0927.165 (0) Table wp_nf3_fields: Total expected rows (approximate): 27
+0927.225 (0) Table wp_nf3_fields: Total rows added: 27 in 0.06 seconds
+0927.226 (0) Table wp_nf3_fields: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_fields.table.gz - 1.2 KB)
+0927.250 (0) Table wp_nf3_form_meta: Total expected rows (approximate): 117
+0927.322 (0) Table wp_nf3_form_meta: Total rows added: 117 in 0.07 seconds
+0927.324 (0) Table wp_nf3_form_meta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_form_meta.table.gz - 2.1 KB)
+0927.365 (0) Table wp_nf3_forms: Total expected rows (approximate): 2
+0927.403 (0) Table wp_nf3_forms: Total rows added: 2 in 0.04 seconds
+0927.405 (0) Table wp_nf3_forms: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_forms.table.gz - 0.5 KB)
+0927.445 (0) Table wp_nf3_object_meta: Total expected rows (approximate): 0
+0927.457 (0) Table wp_nf3_object_meta: Total rows added: 0 in 0.01 seconds
+0927.458 (0) Table wp_nf3_object_meta: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_object_meta.table.gz - 0.3 KB)
+0927.554 (0) Table wp_nf3_objects: Total expected rows (approximate): 0
+0927.567 (0) Table wp_nf3_objects: Total rows added: 0 in 0.01 seconds
+0927.568 (0) Table wp_nf3_objects: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_objects.table.gz - 0.3 KB)
+0927.644 (0) Table wp_nf3_relationships: Total expected rows (approximate): 0
+0927.659 (0) Table wp_nf3_relationships: Total rows added: 0 in 0.01 seconds
+0927.660 (0) Table wp_nf3_relationships: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_relationships.table.gz - 0.4 KB)
+0927.815 (0) Table wp_nf3_upgrades: Total expected rows (approximate): 2
+0928.587 (0) Table wp_nf3_upgrades: Total rows added: 2 in 0.77 seconds
+0928.593 (0) Table wp_nf3_upgrades: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_upgrades.table.gz - 7.1 KB)
+0928.596 (0) The time we have been running (928.6) is approaching the resumption interval (958) - increasing resumption interval to 959
+0928.655 (0) Table wp_pum_subscribers: Total expected rows (approximate): 0
+0928.662 (0) Table wp_pum_subscribers: Total rows added: 0 in 0.01 seconds
+0928.664 (0) Table wp_pum_subscribers: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_pum_subscribers.table.gz - 0.4 KB)
+0928.703 (0) Table wp_queue: Total expected rows (approximate): 0
+0928.720 (0) Table wp_queue: Total rows added: 0 in 0.02 seconds
+0928.721 (0) Table wp_queue: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_queue.table.gz - 0.3 KB)
+0928.913 (0) Table wp_responsive_menu: Total expected rows (approximate): 280
+0928.934 (0) Table wp_responsive_menu: Total rows added: 280 in 0.02 seconds
+0928.938 (0) Table wp_responsive_menu: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_responsive_menu.table.gz - 2.2 KB)
+0928.962 (0) Table wp_sgpb_subscribers: Total expected rows (approximate): 1
+0929.010 (0) Table wp_sgpb_subscribers: Total rows added: 1 in 0.05 seconds
+0929.011 (0) Table wp_sgpb_subscribers: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_sgpb_subscribers.table.gz - 0.4 KB)
+0929.014 (0) The time we have been running (929) is approaching the resumption interval (959) - increasing resumption interval to 960
+0929.128 (0) Table wp_sgpb_subscription_error_log: Total expected rows (approximate): 0
+0929.157 (0) Table wp_sgpb_subscription_error_log: Total rows added: 0 in 0.03 seconds
+0929.158 (0) Table wp_sgpb_subscription_error_log: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_sgpb_subscription_error_log.table.gz - 0.3 KB)
+0929.257 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0929.390 (0) Table wp_wc_download_log: Total rows added: 0 in 0.13 seconds
+0929.391 (0) Table wp_wc_download_log: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0929.492 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0929.572 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.08 seconds
+0929.574 (0) Table wp_wc_webhooks: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0929.631 (0) Table wp_wfblockediplog: Total expected rows (approximate): 0
+0929.709 (0) Table wp_wfblockediplog: Total rows added: 0 in 0.08 seconds
+0929.711 (0) Table wp_wfblockediplog: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfblockediplog.table.gz - 0.3 KB)
+0929.791 (0) Table wp_wfblocks7: Total expected rows (approximate): 0
+0929.796 (0) Table wp_wfblocks7: Total rows added: 0 in 0.00 seconds
+0929.797 (0) Table wp_wfblocks7: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfblocks7.table.gz - 0.4 KB)
+0929.926 (0) Table wp_wfconfig: Total expected rows (approximate): 196
+0929.936 (0) Table wp_wfconfig: Total rows added: 196 in 0.01 seconds
+0929.979 (0) Table wp_wfconfig: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfconfig.table.gz - 2.5 KB)
+0930.032 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+0930.037 (0) Table wp_wfcrawlers: Total rows added: 0 in 0.00 seconds
+0930.038 (0) Table wp_wfcrawlers: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfcrawlers.table.gz - 0.3 KB)
+0930.041 (0) The time we have been running (930) is approaching the resumption interval (960) - increasing resumption interval to 961
+0930.087 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+0930.260 (0) Table wp_wffilechanges: Total rows added: 0 in 0.17 seconds
+0930.261 (0) Table wp_wffilechanges: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wffilechanges.table.gz - 0.3 KB)
+0930.384 (0) Table wp_wffilemods: Total expected rows (approximate): 0
+0930.433 (0) Table wp_wffilemods: Total rows added: 0 in 0.05 seconds
+0930.434 (0) Table wp_wffilemods: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wffilemods.table.gz - 0.4 KB)
+0930.472 (0) Table wp_wfhits: Total expected rows (approximate): 0
+0930.599 (0) Table wp_wfhits: Total rows added: 0 in 0.13 seconds
+0930.601 (0) Table wp_wfhits: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfhits.table.gz - 0.4 KB)
+0930.656 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0930.662 (0) Table wp_wfhoover: Total rows added: 0 in 0.00 seconds
+0930.663 (0) Table wp_wfhoover: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfhoover.table.gz - 0.3 KB)
+0930.693 (0) Table wp_wfissues: Total expected rows (approximate): 0
+0930.729 (0) Table wp_wfissues: Total rows added: 0 in 0.04 seconds
+0930.731 (0) Table wp_wfissues: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfissues.table.gz - 0.4 KB)
+0930.779 (0) Table wp_wfknownfilelist: Total expected rows (approximate): 0
+0930.785 (0) Table wp_wfknownfilelist: Total rows added: 0 in 0.00 seconds
+0930.787 (0) Table wp_wfknownfilelist: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfknownfilelist.table.gz - 0.3 KB)
+0930.849 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+0930.855 (0) Table wp_wflivetraffichuman: Total rows added: 0 in 0.01 seconds
+0930.857 (0) Table wp_wflivetraffichuman: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wflivetraffichuman.table.gz - 0.3 KB)
+0930.923 (0) Table wp_wflocs: Total expected rows (approximate): 0
+0931.119 (0) Table wp_wflocs: Total rows added: 0 in 0.19 seconds
+0931.121 (0) Table wp_wflocs: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wflocs.table.gz - 0.4 KB)
+0931.124 (0) The time we have been running (931.1) is approaching the resumption interval (961) - increasing resumption interval to 962
+0931.298 (0) Table wp_wflogins: Total expected rows (approximate): 0
+0931.314 (0) Table wp_wflogins: Total rows added: 0 in 0.02 seconds
+0931.316 (0) Table wp_wflogins: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wflogins.table.gz - 0.4 KB)
+0931.350 (0) Table wp_wfnotifications: Total expected rows (approximate): 0
+0931.423 (0) Table wp_wfnotifications: Total rows added: 0 in 0.07 seconds
+0931.425 (0) Table wp_wfnotifications: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfnotifications.table.gz - 0.3 KB)
+0931.466 (0) Table wp_wfpendingissues: Total expected rows (approximate): 0
+0931.512 (0) Table wp_wfpendingissues: Total rows added: 0 in 0.05 seconds
+0931.514 (0) Table wp_wfpendingissues: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfpendingissues.table.gz - 0.4 KB)
+0931.575 (0) Table wp_wfreversecache: Total expected rows (approximate): 0
+0931.634 (0) Table wp_wfreversecache: Total rows added: 0 in 0.06 seconds
+0931.636 (0) Table wp_wfreversecache: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfreversecache.table.gz - 0.3 KB)
+0931.682 (0) Table wp_wfsnipcache: Total expected rows (approximate): 0
+0931.692 (0) Table wp_wfsnipcache: Total rows added: 0 in 0.01 seconds
+0931.694 (0) Table wp_wfsnipcache: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfsnipcache.table.gz - 0.4 KB)
+0931.709 (0) Table wp_wfstatus: Total expected rows (approximate): 0
+0931.716 (0) Table wp_wfstatus: Total rows added: 0 in 0.01 seconds
+0931.718 (0) Table wp_wfstatus: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfstatus.table.gz - 0.3 KB)
+0931.774 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+0931.779 (0) Table wp_wftrafficrates: Total rows added: 0 in 0.00 seconds
+0931.782 (0) Table wp_wftrafficrates: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wftrafficrates.table.gz - 0.3 KB)
+0931.789 (0) Table wp_wise_chat_actions: Total expected rows (approximate): 0
+0931.905 (0) Table wp_wise_chat_actions: Total rows added: 0 in 0.12 seconds
+0931.906 (0) Table wp_wise_chat_actions: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_actions.table.gz - 0.3 KB)
+0931.913 (0) Table wp_wise_chat_bans: Total expected rows (approximate): 0
+0931.919 (0) Table wp_wise_chat_bans: Total rows added: 0 in 0.01 seconds
+0931.921 (0) Table wp_wise_chat_bans: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_bans.table.gz - 0.3 KB)
+0931.927 (0) Table wp_wise_chat_channel_users: Total expected rows (approximate): 0
+0931.933 (0) Table wp_wise_chat_channel_users: Total rows added: 0 in 0.01 seconds
+0931.934 (0) Table wp_wise_chat_channel_users: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_channel_users.table.gz - 0.3 KB)
+0931.941 (0) Table wp_wise_chat_channels: Total expected rows (approximate): 0
+0931.946 (0) Table wp_wise_chat_channels: Total rows added: 0 in 0.00 seconds
+0931.948 (0) Table wp_wise_chat_channels: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_channels.table.gz - 0.3 KB)
+0931.956 (0) Table wp_wise_chat_kicks: Total expected rows (approximate): 0
+0932.010 (0) Table wp_wise_chat_kicks: Total rows added: 0 in 0.05 seconds
+0932.011 (0) Table wp_wise_chat_kicks: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_kicks.table.gz - 0.3 KB)
+0932.015 (0) The time we have been running (932) is approaching the resumption interval (962) - increasing resumption interval to 963
+0932.022 (0) Table wp_wise_chat_messages: Total expected rows (approximate): 0
+0932.046 (0) Table wp_wise_chat_messages: Total rows added: 0 in 0.02 seconds
+0932.047 (0) Table wp_wise_chat_messages: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_messages.table.gz - 0.3 KB)
+0932.055 (0) Table wp_wise_chat_users: Total expected rows (approximate): 1
+0932.060 (0) Table wp_wise_chat_users: Total rows added: 1 in 0.00 seconds
+0932.061 (0) Table wp_wise_chat_users: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_users.table.gz - 0.4 KB)
+0932.070 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0932.076 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0932.077 (0) Table wp_woocommerce_api_keys: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0932.137 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0932.239 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.10 seconds
+0932.241 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0932.256 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0932.261 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0932.263 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0932.292 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0932.298 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.01 seconds
+0932.299 (0) Table wp_woocommerce_log: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0932.306 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 19
+0932.360 (0) Table wp_woocommerce_order_items: Total rows added: 19 in 0.05 seconds
+0932.361 (0) Table wp_woocommerce_order_items: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_order_items.table.gz - 0.5 KB)
+0932.373 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0932.409 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.04 seconds
+0932.411 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0932.418 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0932.429 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.01 seconds
+0932.431 (0) Table wp_woocommerce_sessions: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_sessions.table.gz - 0.9 KB)
+0932.437 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0932.444 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.01 seconds
+0932.445 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0932.453 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0932.458 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+0932.459 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0932.465 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0932.489 (0) Table wp_woocommerce_shipping_zones: Total rows added: 0 in 0.02 seconds
+0932.490 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0932.539 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0932.572 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.03 seconds
+0932.574 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0932.606 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0932.612 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.01 seconds
+0932.617 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0932.800 (0) Table wp_wpsm_tables: Total expected rows (approximate): 1
+0932.819 (0) Table wp_wpsm_tables: Total rows added: 1 in 0.02 seconds
+0932.821 (0) Table wp_wpsm_tables: finishing file (backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wpsm_tables.table.gz - 0.4 KB)
+0932.828 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_options.table.gz (1/85): adding to final database dump
+0932.874 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_users.table.gz (2/85): adding to final database dump
+0932.875 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_usermeta.table.gz (3/85): adding to final database dump
+0932.876 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_commentmeta.table.gz (4/85): adding to final database dump
+0932.877 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_comments.table.gz (5/85): adding to final database dump
+0932.879 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_links.table.gz (6/85): adding to final database dump
+0932.880 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_postmeta.table.gz (7/85): adding to final database dump
+0932.901 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_posts.table.gz (8/85): adding to final database dump
+0932.908 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_term_relationships.table.gz (9/85): adding to final database dump
+0932.909 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_term_taxonomy.table.gz (10/85): adding to final database dump
+0932.910 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_termmeta.table.gz (11/85): adding to final database dump
+0932.911 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_terms.table.gz (12/85): adding to final database dump
+0932.912 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_order_itemmeta.table.gz (13/85): adding to final database dump
+0932.913 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_payment_tokenmeta.table.gz (14/85): adding to final database dump
+0932.915 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_yoast_seo_links.table.gz (15/85): adding to final database dump
+0932.917 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_yoast_seo_meta.table.gz (16/85): adding to final database dump
+0932.918 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_cfs_sessions.table.gz (17/85): adding to final database dump
+0932.920 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_cfs_values.table.gz (18/85): adding to final database dump
+0932.921 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_failed_jobs.table.gz (19/85): adding to final database dump
+0932.922 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_loaner_table.table.gz (20/85): adding to final database dump
+0932.923 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_lsystem_loaner_table.table.gz (21/85): adding to final database dump
+0932.924 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_mailchimp_carts.table.gz (22/85): adding to final database dump
+0932.925 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_image_storage.table.gz (23/85): adding to final database dump
+0932.926 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_section_storage.table.gz (24/85): adding to final database dump
+0932.927 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_smartslider3_generators.table.gz (25/85): adding to final database dump
+0932.928 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_smartslider3_sliders.table.gz (26/85): adding to final database dump
+0932.929 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_smartslider3_sliders_xref.table.gz (27/85): adding to final database dump
+0932.930 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nextend2_smartslider3_slides.table.gz (28/85): adding to final database dump
+0932.932 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_action_meta.table.gz (29/85): adding to final database dump
+0932.934 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_actions.table.gz (30/85): adding to final database dump
+0932.935 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_chunks.table.gz (31/85): adding to final database dump
+0932.936 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_field_meta.table.gz (32/85): adding to final database dump
+0932.940 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_fields.table.gz (33/85): adding to final database dump
+0932.942 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_form_meta.table.gz (34/85): adding to final database dump
+0932.944 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_forms.table.gz (35/85): adding to final database dump
+0932.945 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_object_meta.table.gz (36/85): adding to final database dump
+0932.947 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_objects.table.gz (37/85): adding to final database dump
+0932.948 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_relationships.table.gz (38/85): adding to final database dump
+0932.950 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_nf3_upgrades.table.gz (39/85): adding to final database dump
+0932.953 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_pum_subscribers.table.gz (40/85): adding to final database dump
+0932.955 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_queue.table.gz (41/85): adding to final database dump
+0932.956 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_responsive_menu.table.gz (42/85): adding to final database dump
+0932.958 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_sgpb_subscribers.table.gz (43/85): adding to final database dump
+0932.959 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_sgpb_subscription_error_log.table.gz (44/85): adding to final database dump
+0932.960 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wc_download_log.table.gz (45/85): adding to final database dump
+0932.961 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wc_webhooks.table.gz (46/85): adding to final database dump
+0932.962 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfblockediplog.table.gz (47/85): adding to final database dump
+0932.962 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfblocks7.table.gz (48/85): adding to final database dump
+0932.964 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfconfig.table.gz (49/85): adding to final database dump
+0932.965 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfcrawlers.table.gz (50/85): adding to final database dump
+0932.967 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wffilechanges.table.gz (51/85): adding to final database dump
+0932.968 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wffilemods.table.gz (52/85): adding to final database dump
+0932.969 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfhits.table.gz (53/85): adding to final database dump
+0932.971 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfhoover.table.gz (54/85): adding to final database dump
+0932.972 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfissues.table.gz (55/85): adding to final database dump
+0932.973 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfknownfilelist.table.gz (56/85): adding to final database dump
+0932.974 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wflivetraffichuman.table.gz (57/85): adding to final database dump
+0932.975 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wflocs.table.gz (58/85): adding to final database dump
+0932.976 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wflogins.table.gz (59/85): adding to final database dump
+0932.977 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfnotifications.table.gz (60/85): adding to final database dump
+0932.978 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfpendingissues.table.gz (61/85): adding to final database dump
+0932.978 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfreversecache.table.gz (62/85): adding to final database dump
+0932.979 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfsnipcache.table.gz (63/85): adding to final database dump
+0932.981 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wfstatus.table.gz (64/85): adding to final database dump
+0932.982 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wftrafficrates.table.gz (65/85): adding to final database dump
+0932.984 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_actions.table.gz (66/85): adding to final database dump
+0932.985 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_bans.table.gz (67/85): adding to final database dump
+0932.986 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_channel_users.table.gz (68/85): adding to final database dump
+0932.987 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_channels.table.gz (69/85): adding to final database dump
+0932.988 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_kicks.table.gz (70/85): adding to final database dump
+0932.989 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_messages.table.gz (71/85): adding to final database dump
+0932.990 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wise_chat_users.table.gz (72/85): adding to final database dump
+0932.991 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_api_keys.table.gz (73/85): adding to final database dump
+0932.992 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_attribute_taxonomies.table.gz (74/85): adding to final database dump
+0932.993 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (75/85): adding to final database dump
+0932.994 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_log.table.gz (76/85): adding to final database dump
+0932.995 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_order_items.table.gz (77/85): adding to final database dump
+0932.996 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_payment_tokens.table.gz (78/85): adding to final database dump
+0932.998 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_sessions.table.gz (79/85): adding to final database dump
+0932.999 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_shipping_zone_locations.table.gz (80/85): adding to final database dump
+0933.001 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_shipping_zone_methods.table.gz (81/85): adding to final database dump
+0933.002 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_shipping_zones.table.gz (82/85): adding to final database dump
+0933.003 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_tax_rate_locations.table.gz (83/85): adding to final database dump
+0933.004 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_woocommerce_tax_rates.table.gz (84/85): adding to final database dump
+0933.005 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db-table-wp_wpsm_tables.table.gz (85/85): adding to final database dump
+0933.007 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db.gz: finished writing out complete database file (368 KB)
+0933.037 (0) Total database tables backed up: 85 (backup_2019-02-20-1022_alpha_products_87d2e39436da-db.gz, size: 403422, sha256)
+0933.042 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0933.043 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0933.044 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0933.045 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-others.zip: others: This file has not yet been successfully uploaded: will queue
+0933.045 (0) backup_2019-02-20-1022_alpha_products_87d2e39436da-db.gz: db: This file has not yet been successfully uploaded: will queue
+0933.046 (0) Saving backup history. Total backup size: 103 MB
+0933.049 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0933.052 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0933.052 (0) No remote despatch: user chose no remote backup service
+0933.053 (0) Recording as successfully uploaded: backup_2019-02-20-1022_alpha_products_87d2e39436da-plugins.zip
+0933.055 (0) Recording as successfully uploaded: backup_2019-02-20-1022_alpha_products_87d2e39436da-themes.zip
+0933.056 (0) Recording as successfully uploaded: backup_2019-02-20-1022_alpha_products_87d2e39436da-uploads.zip
+0933.057 (0) Recording as successfully uploaded: backup_2019-02-20-1022_alpha_products_87d2e39436da-others.zip
+0933.058 (0) Recording as successfully uploaded: backup_2019-02-20-1022_alpha_products_87d2e39436da-db.gz
+0933.061 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0933.062 (0) Number of backup sets in history: 2; groups (db): 1
+0933.062 (0) Examining (for databases) backup set with group_id=0, nonce=87d2e39436da, datestamp=1550658125 (Feb 20 2019 10:22:05)
+0933.063 (0) This backup set is the backup set just made, so will not be deleted.
+0933.063 (0) Examining (for databases) backup set with group_id=0, nonce=954276d3b427, datestamp=1545806350 (Dec 26 2018 06:39:10)
+0933.063 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0933.063 (0) Number of backup sets in history: 2; groups (files): 1
+0933.064 (0) Examining (for files) backup set with nonce=87d2e39436da, datestamp=1550658125 (Feb 20 2019 10:22:05)
+0933.064 (0) This backup set is the backup set just made, so will not be deleted.
+0933.065 (0) This backup set is the backup set just made, so will not be deleted.
+0933.065 (0) This backup set is the backup set just made, so will not be deleted.
+0933.065 (0) This backup set is the backup set just made, so will not be deleted.
+0933.065 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0933.066 (0) Examining (for files) backup set with nonce=954276d3b427, datestamp=1545806350 (Dec 26 2018 06:39:10)
+0933.066 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0933.066 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0933.068 (0) Resume backup (87d2e39436da, 0): finish run
+0933.113 (0) Decremented the semaphore (fd) by 1
+0933.115 (0) Semaphore (fd) unlocked
+0933.115 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0933.118 (0) No email will/can be sent - the user has not configured an email address.
+0933.119 (0) The backup apparently succeeded and is now complete

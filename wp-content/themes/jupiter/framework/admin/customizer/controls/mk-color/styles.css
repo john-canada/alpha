@@ -1,0 +1,24 @@
+.mk-element-has-icon .alpha-color-picker-wrap{
+	margin-left: 28px;
+}
+.alpha-color-picker-wrap .wp-picker-input-wrap {
+	display: none !important;
+}
+
+.wp-color-result {
+	height: 26px;
+	box-shadow: 0 0 0;
+	border-color: #363636;
+	border-radius: 2px;
+	padding-left: 26px;
+	margin-right: 0;
+}
+
+.wp-color-result:hover,
+.wp-color-result:focus {
+	border-color: #363636;
+}
+
+.wp-color-result:after {
+	display: none;
+}

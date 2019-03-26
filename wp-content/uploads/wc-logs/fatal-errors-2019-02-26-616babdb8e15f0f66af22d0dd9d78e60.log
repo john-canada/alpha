@@ -1,0 +1,54 @@
+2019-02-26T00:29:56+00:00 CRITICAL syntax error, unexpected ')', expecting end of file in C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\functions.php on line 31
+
+2019-02-26T00:30:26+00:00 CRITICAL syntax error, unexpected ')', expecting end of file in C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\functions.php on line 31
+
+2019-02-26T01:02:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\themes\jupiter\framework\includes\phpquery\phpQuery.php on line 23
+
+2019-02-26T01:03:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\smart-slider-3\nextend\library\libraries\assets\manager.php on line 7
+
+2019-02-26T01:34:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\themes\jupiter\framework\includes\minify\src\Minifier.php on line 32
+
+2019-02-26T01:34:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-includes\class-wp-theme.php on line 279
+
+2019-02-26T01:35:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\woocommerce\includes\admin\reports\class-wc-admin-report.php on line 3
+
+2019-02-26T06:18:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\smart-slider-3\library\smartslider\plugins\widgetarrow\image\image.php on line 3
+
+2019-02-26T10:56:58+00:00 CRITICAL Uncaught Error: Call to undefined function mx_add_param_for_link() in C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\inc\custom-login.php:38
+Stack trace:
+#0 C:\xampp\htdocs\alpha\wp-includes\template.php(690): require()
+#1 C:\xampp\htdocs\alpha\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\alpha\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\inc\page-home.php(184): get_template_part('/inc/custom-log...')
+#4 C:\xampp\htdocs\alpha\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\alpha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\alpha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\inc\custom-login.php on line 38
+
+2019-02-26T10:57:09+00:00 CRITICAL Uncaught Error: Call to undefined function mx_add_param_for_link() in C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\inc\custom-login.php:38
+Stack trace:
+#0 C:\xampp\htdocs\alpha\wp-includes\template.php(690): require()
+#1 C:\xampp\htdocs\alpha\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\alpha\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\inc\page-home.php(184): get_template_part('/inc/custom-log...')
+#4 C:\xampp\htdocs\alpha\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\alpha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\alpha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\inc\custom-login.php on line 38
+
+2019-02-26T10:57:19+00:00 CRITICAL Uncaught Error: Call to undefined function mx_add_param_for_link() in C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\inc\custom-login.php:38
+Stack trace:
+#0 C:\xampp\htdocs\alpha\wp-includes\template.php(690): require()
+#1 C:\xampp\htdocs\alpha\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\alpha\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\inc\page-home.php(184): get_template_part('/inc/custom-log...')
+#4 C:\xampp\htdocs\alpha\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\alpha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\alpha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\alpha\wp-content\themes\jupiter-child\inc\custom-login.php on line 38
+
+2019-02-26T11:05:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\smart-slider-3\nextend\wordpress\platform.php on line 3
+

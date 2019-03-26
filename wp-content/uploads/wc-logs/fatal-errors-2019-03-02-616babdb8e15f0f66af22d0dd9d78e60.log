@@ -1,0 +1,12 @@
+2019-03-02T02:50:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\yith-woocommerce-tab-manager\plugin-fw\licence\lib\yit-plugin-licence.php on line 11
+
+2019-03-02T02:52:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-includes\wp-db.php on line 1924
+
+2019-03-02T02:54:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-includes\wp-db.php on line 1924
+
+2019-03-02T02:56:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\w3-total-cache\Cache_File.php on line 158
+
+2019-03-02T02:56:40+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\w3-total-cache\Cache_File.php on line 158
+
+2019-03-02T03:07:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\themes\jupiter\framework\helpers\love-post.php on line 2
+

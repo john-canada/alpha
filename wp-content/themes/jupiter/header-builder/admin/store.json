@@ -1,0 +1,228 @@
+{
+   "model": {
+      "activeDevice": "desktop",
+      "desktop": {
+         "future": [],
+         "past": [],
+         "present": {
+            "category": "CONTAINER",
+            "highlightedId": "ciyk0nmvw000k3j5lq2qzzseo",
+            "id": "ciyk0megh00063j5le1zw9dbi",
+            "options": {
+               "fixed": false,
+               "fullWidth": false
+            },
+            "rows": [
+               {
+                  "caption": "Row",
+                  "category": "ROW",
+                  "columns": [
+                     {
+                        "category": "COLUMN",
+                        "elements": [],
+                        "id": "ciyk0megh00083j5lvqd5ozsc",
+                        "options": {},
+                        "width": 12
+                     }
+                  ],
+                  "id": "ciyk0megh00073j5lbaqqngk4",
+                  "options": {
+                     "backgroundId": 1,
+                     "padding": {
+                       "top": 0,
+                       "right": 0,
+                       "bottom": 0,
+                       "left": 0,
+                     },
+                     "margin": {
+                       "top": 0,
+                       "right": 0,
+                       "bottom": 0,
+                       "left": 0,
+                     }
+                  },
+                  "type": "row"
+               },
+            ]
+         }
+      },
+      "mobile": {
+         "future": [],
+         "past": [],
+         "present": {
+            "category": "CONTAINER",
+            "highlightedId": "ciyk0megi000h3j5lvd8iw4om",
+            "id": "ciyk0megi000h3j5lvd8iw4om",
+            "options": {},
+            "rows": [
+               {
+                  "caption": "Row",
+                  "category": "ROW",
+                  "columns": [
+                     {
+                        "category": "COLUMN",
+                        "elements": [],
+                        "id": "ciyk0megi000j3j5le0527rma",
+                        "options": {},
+                        "width": 12
+                     }
+                  ],
+                  "id": "ciyk0megi000i3j5l2ik0dom2",
+                  "options": {},
+                  "type": "row"
+               }
+            ]
+         }
+      },
+      "tablet": {
+         "future": [],
+         "past": [],
+         "present": {
+            "category": "CONTAINER",
+            "highlightedId": "ciyk0megi000d3j5lz393bj0b",
+            "id": "ciyk0megi000d3j5lz393bj0b",
+            "options": {},
+            "rows": [
+               {
+                  "caption": "Row",
+                  "category": "ROW",
+                  "columns": [
+                     {
+                        "category": "COLUMN",
+                        "elements": [],
+                        "id": "ciyk0megi000f3j5lq44rjd0s",
+                        "options": {},
+                        "width": 12
+                     }
+                  ],
+                  "id": "ciyk0megi000e3j5lkmn1osno",
+                  "options": {},
+                  "type": "row"
+               }
+            ]
+         }
+      }
+   },
+   "viewModel": {
+      "desktop": {},
+      "dropPreviewIndexPath": null,
+      "mobile": {},
+      "tablet": {},
+      "toolbox": {
+         "elements": [
+            {
+               "caption": "Row",
+               "type": "row"
+            },
+            {
+               "caption": "Divider",
+               "options": {
+                  "color": "#00ff00",
+                  "verticalPadding": "4px",
+                  "width": "5%"
+               },
+               "type": "divider"
+            },
+            {
+               "caption": "Logo",
+               "options": {},
+               "type": "logo"
+            },
+            {
+               "caption": "Social Media",
+               "options": {},
+               "type": "social-media"
+            },
+            {
+               "caption": "Image",
+               "options": {},
+               "type": "image"
+            },
+            {
+               "caption": "Search",
+               "options": {
+                  "iconColor": {
+                     "r": 119,
+                     "b": 119,
+                     "g": 119,
+                     "a": 0.4
+                  },
+                  "iconHoverColor": {
+                     "r": 119,
+                     "b": 119,
+                     "g": 119,
+                     "a": 1
+                  },
+                  "iconSize": 16,
+                  "iconType": "1",
+                  "margin": {
+                     "top": 0,
+                     "right": 0,
+                     "bottom": 0,
+                     "left": 0
+                  },
+                  "padding": {
+                     "top": 0,
+                     "right": 0,
+                     "bottom": 0,
+                     "left": 0,
+                  }
+               },
+               "type": "search"
+            },
+            {
+               "caption": "Lang. Selector",
+               "options": {
+                  "enableFlag": false,
+                  "langs": [
+                     {
+                        "name": "EN",
+                        "title": "English",
+                        "url": ""
+                     },
+                     {
+                        "name": "FR",
+                        "title": "French",
+                        "url": ""
+                     },
+                     {
+                        "name": "ES",
+                        "title": "Espanol",
+                        "url": ""
+                     }
+                  ],
+                  "selectedLanguage": "EN"
+               },
+               "type": "language-selector"
+            },
+            {
+               "caption": "Shop Cart",
+               "options": {},
+               "type": "shopping-icon"
+            },
+            {
+               "caption": "Navigation",
+               "options": {},
+               "type": "navigation"
+            },
+            {
+               "caption": "Text",
+               "options": {
+                  "text": ""
+               },
+               "type": "textbox"
+            },
+            {
+               "caption": "Burger Menu",
+               "options": {},
+               "type": "burger-menu"
+            },
+            {
+               "caption": "Button",
+               "options": {},
+               "type": "button"
+            },
+         ]
+      }
+   }
+}

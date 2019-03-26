@@ -1,0 +1,182 @@
+[class*='customize-control-mk'] {
+	font-size: 12px;
+}
+
+#customize-theme-controls .accordion-section-content,
+#customize-controls .description {
+	color: #fff;
+}
+
+.wp-full-overlay-sidebar {
+	width: 360px;
+}
+
+.wp-full-overlay.expanded {
+	margin-left: 360px;
+}
+
+.wp-full-overlay.collapsed .wp-full-overlay-sidebar {
+	margin-left: -360px;
+}
+
+.expanded .wp-full-overlay-footer,
+.customize-section-description-container + #customize-control-custom_css:last-child {
+	width: 359px;
+}
+
+#customize-theme-controls .control-section.open {
+    border-bottom: 1px solid #333;
+}
+
+#customize-header-actions {
+	border-bottom: 1px solid #2b2b2b;
+}
+
+.customize-controls-close {
+	background: #333;
+	border-top: 4px solid #333;
+	border-right: 1px solid #2b2b2b;
+	color: #c5c5c5;
+}
+
+.expanded .wp-full-overlay-footer {
+	border-top: 1px solid #333;
+	background: #333;
+}
+
+.wp-full-overlay-footer .devices {
+	background: #333;
+	-webkit-box-shadow: 0 0 0;
+	box-shadow: 0 0 0;
+}
+
+#customize-controls .customize-info .accordion-section-title {
+	background: #424242;
+	color: #FFFFFF;
+}
+
+.wp-full-overlay-sidebar .wp-full-overlay-header {
+	background-color: 333333;
+}
+
+.wp-full-overlay-sidebar {
+	background: #535353;
+	border-right: 1px solid #333;
+}
+
+#customize-controls .customize-info {
+	border-color: #333;
+}
+
+.customize-panel-back, .customize-section-back {
+	background: #424242;
+	border-right: 1px solid #333;
+}
+
+.customize-panel-back:hover, 
+.customize-panel-back:focus, 
+.customize-section-back:hover, 
+.customize-section-back:focus {
+	color: #0073aa;
+	background: #424242; 
+}
+
+.customize-section-title {
+	border-bottom: 1px solid #333;
+	background: #424242;
+}
+
+.customize-section-title h3, h3.customize-section-title {
+	color: #fff;
+}
+
+#customize-controls .panel-meta.customize-info .accordion-section-title:hover, #customize-controls .cannot-expand:hover .accordion-section-title {
+	background: #424242;
+	color: #fff;
+	border-left-color: #fff;
+}
+
+#customize-theme-controls .accordion-section-title {
+	color: #fff;
+	background-color: #535353;
+	border-bottom: 1px solid #333;
+	border-left: 4px solid #535353;
+}
+
+#accordion-section-themes + .control-section {
+	border-color: #333;
+}
+
+#customize-theme-controls .control-section:last-of-type.open, 
+#customize-theme-controls .control-section:last-of-type > .accordion-section-title {
+	border-bottom-color: #333;
+}
+
+#customize-controls .control-section:hover > .accordion-section-title, #customize-controls .control-section .accordion-section-title:hover, #customize-controls .control-section.open .accordion-section-title, #customize-controls .control-section .accordion-section-title:focus {
+	color: #fbfbfb;
+	background: #4d4d4d;
+	border-left-color: #fff;
+}
+
+#customize-theme-controls .accordion-section-title:after {
+	color: #fff;
+}
+
+#customize-theme-controls .control-panel-content .control-section:nth-child(2), #customize-theme-controls .control-panel-nav_menus .control-section:nth-child(3) {
+	border-top: 1px solid #333;
+}
+
+#customize-theme-controls .control-section:hover > .accordion-section-title:after, #customize-theme-controls .control-section .accordion-section-title:hover:after, #customize-theme-controls .control-section.open .accordion-section-title:after, #customize-theme-controls .control-section .accordion-section-title:focus:after {
+	color: #fff;
+}
+
+#customize-theme-controls .control-section-themes .accordion-section-title:hover, #customize-theme-controls .control-section-themes .accordion-section-title {
+	cursor: default;
+	background: #535353;
+	color: #fff;
+	border-top: 1px solid #333;
+	border-bottom: 1px solid #333;
+}
+
+/* Input fields */
+input[type="text"], 
+input[type="password"], 
+input[type="checkbox"],
+input[type="color"], 
+input[type="date"], 
+input[type="datetime"], 
+input[type="datetime-local"], 
+input[type="email"], 
+input[type="month"],
+input[type="number"], 
+input[type="search"], 
+input[type="radio"], 
+input[type="tel"],
+input[type="text"],
+input[type="time"], 
+input[type="url"], 
+input[type="week"], 
+select,
+textarea {
+	border-color: #363636;
+	background-color: #3d3d3d;
+	color: #fff;
+	border-radius: 2px;
+}
+
+select {
+	border-color: #363636;
+	background-color: #757575;
+	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+	color: #fff;
+	border-radius: 2px;
+}
+
+input, select {
+	padding: 4px 9px;
+}
+
+
+.notice, div.updated, div.error {
+	background: #3d3d3d;
+}

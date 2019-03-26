@@ -1,0 +1,12 @@
+2019-02-25T21:28:00+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 12288 bytes) in C:\xampp\htdocs\alpha\wp-content\plugins\elementor\includes\managers\wordpress-widgets.php on line 34
+
+2019-02-25T22:00:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\stripe-bancontact-settings.php on line 2
+
+2019-02-25T22:47:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\w3-total-cache\Cache_File.php on line 165
+
+2019-02-25T22:50:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler.php on line 7
+
+2019-02-25T23:56:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\yith-woocommerce-tab-manager\plugin-fw\lib\privacy\yit-privacy.php on line 4
+
+2019-02-25T23:58:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\woocommerce-gateway-paypal-express-checkout\includes\class-wc-gateway-ppec-refund.php on line 3
+

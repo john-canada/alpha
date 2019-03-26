@@ -1,0 +1,114 @@
+/* ============================================================================
+   SHOP CART - GENERAL
+   ========================================================================= */
+.hb-shop-cart-el {
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    vertical-align: top;
+}
+
+.hb-shop-cart-el__count {
+    font-size: 13px;
+    font-weight: 700;
+    padding-left: 5px;
+}
+
+/**
+ * SHOP CART > CART LINK
+ */
+.hb-shop-cart-el__link {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+	color: #444;
+    transition: all .15s ease-in-out;
+}
+
+.hb-shop-cart-el__link svg {
+    display: inline-block;
+    fill: currentColor;
+    margin-right: -4px;
+    position: relative;
+    -webkit-transform: translateY(3px);
+    -ms-transform: translateY(3px);
+    transform: translateY(3px);
+}
+
+/* ============================================================================
+   SHOP CART - BOX
+   ========================================================================= */
+.hb-shop-cart-el__box {
+    z-index: 999;
+}
+
+/**
+ * SHOP CART > BOX > WIDGET
+ */
+.hb-shop-cart-el__box .widget {
+    margin: 0;
+}
+
+.hb-shop-cart-el__box .product_list_widget {
+    margin: 15px 0!important;
+}
+
+.hb-shop-cart-el__box .product_list_widget li {
+    margin: 0!important;
+    line-height: 22px!important;
+    padding: 10px 0!important;
+}
+
+.hb-shop-cart-el__box .product_list_widget li:first-child {
+    border-top: none;
+}
+
+.hb-shop-cart-el__box .product_list_widget li.empty {
+    padding-left: 20px!important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.hb-shop-cart-el__box .product_list_widget li a {
+    font-size: 12px;
+    font-weight: 400!important;
+    padding-left: 9px;
+}
+
+.hb-shop-cart-el__box .product_list_widget li .quantity {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 10px;
+    display: inline-block;
+    text-align: left;
+}
+
+/* ============================================================================
+   COMMENTED CODE - Keep them here, maybe will be useful later.
+   ========================================================================= */
+/*.hb-shop-cart-el__box .product_list_widget li a,
+.hb-shop-cart-el__box .product_list_widget li.empty,
+.hb-shop-cart-el__box .product_list_widget li span,
+.hb-shop-cart-el__box .widget_shopping_cart .total {
+    color: #b3b3b3;
+}*/
+/**
+ * SHOP CART > BOX > FOOTER
+ */
+/*.hb-shop-cart-el__box .buttons {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.hb-shop-cart-el__box .total {
+    font-size: 16px;
+    font-weight: 700;
+    display: block;
+    text-align: center;
+    border-top: 1px solid rgba(128,128,128,.2)!important;
+    padding-top: 15px!important;
+}
+.hb-shop-cart-el__box .button {
+    border-color: #b3b3b3;
+    color: #b3b3b3;
+}*/

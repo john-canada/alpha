@@ -1,0 +1,24 @@
+/* ============================================================================
+   SHOP CART - GENERAL
+   ========================================================================= */
+.hb-social-network-el {
+	height: auto;
+}
+
+.hb-social-network-el__list {
+	display: inline-block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.hb-social-network-el__item {
+	margin: 0;
+}
+
+.hb-social-network-el__link {
+    position: relative;
+    display: inline-block;
+    line-height: 0;
+    transition: all .15s ease-in-out;
+}
