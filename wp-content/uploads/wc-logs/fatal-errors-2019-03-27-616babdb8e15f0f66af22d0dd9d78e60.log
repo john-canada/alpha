@@ -1,0 +1,20 @@
+2019-03-27T00:14:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\wpforms-lite\src\Admin\Challenge.php on line 14
+
+2019-03-27T01:13:50+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\smart-slider-3\nextend\library\libraries\cache\manifest.php on line 2
+
+2019-03-27T01:15:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\smart-slider-3\library\smartslider\libraries\storage.php on line 3
+
+2019-03-27T01:15:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\smart-slider-3\includes\integrations\gutenberg\block.php on line 4
+
+2019-03-27T01:15:41+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-includes\wp-db.php on line 1877
+
+2019-03-27T01:16:00+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\wordpress-seo\inc\class-structured-data-blocks.php on line 11
+
+2019-03-27T01:16:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\yith-woocommerce-tab-manager\plugin-fw\lib\yit-video.php on line 12
+
+2019-03-27T01:17:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\w3-total-cache\Cache_File.php on line 447
+
+2019-03-27T04:05:50+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-03-27T05:00:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\w3-total-cache\Cache_File.php on line 158
+
