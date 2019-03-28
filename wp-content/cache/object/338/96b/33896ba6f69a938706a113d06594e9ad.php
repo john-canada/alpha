@@ -1,1 +1,1 @@
-èõ\<?php exit; ?>a:1:{s:7:"content";s:7:"0.0.0.0";}
+yTú\<?php exit; ?>a:1:{s:7:"content";s:7:"0.0.0.0";}

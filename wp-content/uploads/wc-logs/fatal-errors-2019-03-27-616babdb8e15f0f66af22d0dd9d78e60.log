@@ -18,3 +18,5 @@
 
 2019-03-27T05:00:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-content\plugins\w3-total-cache\Cache_File.php on line 158
 
+2019-03-27T09:12:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\alpha\wp-includes\media.php on line 2836
+
